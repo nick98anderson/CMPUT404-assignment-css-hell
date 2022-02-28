@@ -1,3 +1,5 @@
+CMPUT 404 Assignment 3 © 2022 by Nicholas Anderson is licensed under CC BY-SA 4.0
+
 Assignment: CSS Hell
 ====================
 
